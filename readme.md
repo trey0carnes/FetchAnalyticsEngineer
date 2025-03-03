@@ -14,7 +14,7 @@ My thinking with the ERD is that the table definitions receipts and brands neede
 ## SQL Queries
 
 - Query 1: Which brand has the most spend/transactions among users who were created within the past 6 months?
-- [Solution](brand_metricssql)
+- [Solution](brand_metrics.sql)
 
 - Query 2: When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
 - [Solution](receipt_item_status.sql)
